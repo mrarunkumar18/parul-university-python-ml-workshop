@@ -1,14 +1,25 @@
-This repository contains my work from the
-"From Python Basics to Machine Learning:
-Build a Live Data Science Project" workshop
+# Python Data Science Workshop Project
+
+This repository contains my work from the workshop:
+
+"From Python Basics to Machine Learning: Build a Live Data Science Project"
+
 held at Parul University.
 
-Technologies used:
+## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
 
-The workshop demonstrated how to build a
-simple data science model from a dataset.
+## Project Workflow
+1. Load dataset
+2. Data preprocessing
+3. Data visualization
+4. Model training
+5. Prediction
+
+## Author
+Arun Kumar
+BCA Student
